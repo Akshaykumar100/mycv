@@ -1,0 +1,15 @@
+.profile_pic{
+    border: 5px solid black;
+}
+.profile_info{
+    background-color: brown;
+}
+.tb1{
+    border: 10px solid black;
+}
+.color-heading{
+    color: blue;
+}
+body{
+    font-family: 'Roboto', sans-serif;
+}
